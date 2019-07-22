@@ -3,6 +3,8 @@
 // device and displays the text to an LCD screen.
 //==========================================================
 
+// new comment
+
 //#include <SoftwareSerial.h> // Not sure this is needed
 #include <ParallaxLCD.h>
 #include <SPI.h>
