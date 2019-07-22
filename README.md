@@ -1,4 +1,4 @@
-# Enrf_24_RX_Final
+# Enrf24_RX_Final
 RX side of final project for Microprocessors
 
 This project was written in Code Composure Studio using Energia libraries for the MSP430.
